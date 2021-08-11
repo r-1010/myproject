@@ -23,3 +23,13 @@ I've not made use of any other tags of html except h2, ul, li(list items), p tag
   
 # Backpack Page:
 
+As moving forward, finally developing the last page or tab of the website.<br>
+Created the backpack page listing various types of backpacks and fetched information abour each type.<br>
+In this page, I've made of various tags. style tag, h2, ol, li(list items), p, img.<br>
+
+While developing this project, I helped myself for the contents of the website & various pages through wikipedia
+## Link 
+[Wikipedia References-](https://en.wikipedia.org/wiki/Backpack)
+
+
+
