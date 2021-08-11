@@ -25,7 +25,8 @@ After the home page, I went along with about-us page where I told what exactly t
 
 As moving forward, finally developing the last page or tab of the website.<br>
 Created the backpack page listing various types of backpacks and fetched information abour each type.<br>
-In this page, I've made use of various tags. style tag, h2, ol, li(list items), p, img.<br>
+In this page, I've made use of various tags. <br>
+style tag, h2, ol, li(list items), p, img.<br>
 
 While developing this project, I helped myself for the contents of the website & various pages through wikipedia.<br>
 Implementation of various html and css tags made it possible for the website to appear in the looks of a good view.<br>
