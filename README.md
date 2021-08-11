@@ -6,4 +6,9 @@ I've created a simple website about backpack and have made up a, <br>
 * About Page
 * Backpack Page
 
+# Home Page:
+
+I've made use of a navigational bar at the very top of the page.<br>
+Below that, is a paragraph tag where I've feeded some text along with an image with the img tag.<br>
+Finally, I've implemented a footer at the end of the page feeding a href of "email" and have not initiated the tag.
 
