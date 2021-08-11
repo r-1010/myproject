@@ -18,7 +18,7 @@ Finally, I've implemented a footer at the end of the page feeding a href of "ema
 After the home page, I went along with about-us page where I told what exactly the page title describes.<br>
 * Terminolgy
 * Backpack Designs
-* Daily use
+* Daily use <br>
 I've not made use of any other tags of html except h2, ul, li(list items), p tags.
   
 # Backpack Page:
