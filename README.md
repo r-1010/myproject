@@ -15,7 +15,7 @@ Finally, I've implemented a footer at the end of the page feeding a href of "ema
 
 # About Page:
 
-After the home page, I went along with about-us page where I told what the page title describes.<br>
+After the home page, I went along with about-us page where I told what exactly the page title describes.<br>
 * Terminolgy
 * Backpack Designs
 * Daily use
